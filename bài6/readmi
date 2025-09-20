@@ -1,1 +1,7 @@
+Bài 6 - Giao tiếp I²C
+Nội dung bài tập
+Yêu cầu của bài tập
+•	Cấu hình STM32 là master I²C
+•	Giao tiếp với một EEPROM hoặc cảm biến I²C để đọc/ghi dữ liệu.
+•	Hiển thị dữ liệu đọc được lên màn hình terminal qua UART.
 
